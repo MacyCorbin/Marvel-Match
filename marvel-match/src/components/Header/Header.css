@@ -1,14 +1,18 @@
 .header {
     width: 100%;
-    font-size: 2rem;
-    color: #2A77AE;
+    font-size: 50px;
+    color: white;
+    background-color: #38C790;
     margin-bottom: 10px;
+    height: 150px;
 }
   
 .title {
     float: left;
+    padding: 40px 180px;
 }
   
 .scores {
     float: right;
+    padding: 40px 180px;
 }
