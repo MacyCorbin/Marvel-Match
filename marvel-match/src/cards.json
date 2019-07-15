@@ -3,42 +3,42 @@
 
     {
         "id": 1,
-        "image": "/components/images/Avengers1.png"
+        "image": "Avengers1.png"
     },
 
     {
         "id": 2,
-        "image": "/components/images/Avengers2.png"
+        "image": "Avengers2.png"
     },
 
     {
         "id": 3,
-        "image": "/components/images/Avengers3.png"
+        "image": "Avengers3.png"
     },
 
     {
         "id": 4,
-        "image": "/components/images/Avengers4.png"
+        "image": "Avengers4.png"
     },
 
     {
         "id": 5,
-        "image": "/components/images/Avengers5.png"
+        "image": "Avengers5.png"
     },
 
     {
         "id": 6,
-        "image": "/components/images/Avengers6.png"
+        "image": "Avengers6.png"
     },
 
     {
         "id": 7,
-        "image": "/components/images/Avengers7.png"
+        "image": "Avengers7.png"
     },
 
     {
         "id": 8,
-        "image": "/components/images/Avengers8.png"
+        "image": "Avengers8.png"
     }
 
 ]
