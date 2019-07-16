@@ -14,16 +14,18 @@
     
 }
 .card > .img-container > img {
-    width: 105%
+    max-width: 100%;
 }
 
 @media (max-width:860px){
 
     .card{
-        margin: 10px;
-        position: inherit;
-        width: 100px;
-        margin-right: 0px;
+        
+        
+        width: 200px;
+        margin: 2px;
+        position: relative;
+        
 
     }
 }

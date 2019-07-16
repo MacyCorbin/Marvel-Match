@@ -1,37 +1,37 @@
 .header {
-    width: 100%;
+    max-width: 100%;
     color: white;
-    background-color: #38C790;
+    background-color: #A33A38;
     margin-bottom: 10px;
     height: 150px;
 }
   
 .title {
     float: left;
-    padding: 40px 180px;
+    margin: 40px 0px 40px 15%;
     font-size: 50px;
 }
   
 .scores {
     float: right;
-    padding: 40px 180px;
+    margin: 40px 15% 40px 0px;
     font-size: 30px;
 }
 
 @media (max-width:860px){
 
     .header{
-        height: 100px;
+        height: 120px;
     }
     
     .title {
-    padding: 20px 0px 20px 150px;
+    /* padding: 10px 0px 20px 150px; */
     font-size: 30px;
     }
     
     .scores {
     float: right;
-    padding: 20px 150px 20px 0px;
+    /* padding: 25px 150px 20px 0px; */
     font-size: 20px;
     }
 }

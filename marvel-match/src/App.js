@@ -71,7 +71,7 @@ class App extends Component {
   // Map over this.state.cards and render a card component for each card object
   render() {
     return (
-      <div>
+      <div className="contents">
         <Header score={this.state.score} highscore={this.state.highscore}>Marvel Match</Header>
         <div className="container">
           {this.state.cards.map(card => (
