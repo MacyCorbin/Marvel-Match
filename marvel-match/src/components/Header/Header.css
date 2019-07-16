@@ -1,6 +1,5 @@
 .header {
     width: 100%;
-    font-size: 50px;
     color: white;
     background-color: #38C790;
     margin-bottom: 10px;
@@ -10,9 +9,29 @@
 .title {
     float: left;
     padding: 40px 180px;
+    font-size: 50px;
 }
   
 .scores {
     float: right;
     padding: 40px 180px;
+    font-size: 30px;
+}
+
+@media (max-width:860px){
+
+    .header{
+        height: 100px;
+    }
+    
+    .title {
+    padding: 20px 0px 20px 150px;
+    font-size: 30px;
+    }
+    
+    .scores {
+    float: right;
+    padding: 20px 150px 20px 0px;
+    font-size: 20px;
+    }
 }
